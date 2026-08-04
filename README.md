@@ -102,31 +102,7 @@ Suitable content categories for promotion
 Cross-selling opportunities
 Personalized content recommendations
 Customer Growth Recommendations
-
-Suggested initiatives may include:
-
-Referral programmes
-Targeted digital marketing
-Personalized recommendations
-Customer retention campaigns
-Loyalty and rewards programmes
-Social media engagement strategies
-Assumptions
-Each record represents a unique viewing session.
-Viewing duration accurately reflects customer engagement.
-Missing demographic attributes are treated as "Unknown" where applicable.
-Historical viewership trends are indicative of future customer behaviour.
 Tools & Technologies
-
-Examples:
-
-Microsoft Excel
-Power BI
-SQL
-Python (Pandas, NumPy, Matplotlib)
-PowerPoint
-Expected Outcome
-
 The final outcome is a set of actionable insights and recommendations that will help BrightTV:
 
 Increase content consumption.
@@ -135,12 +111,4 @@ Enhance customer retention.
 Acquire new subscribers.
 Support sustainable subscription growth.
 
-Author: Jeffrey Tsoili
- Case Study: BrightTV Viewership Analytics
- Purpose: Customer Value Management (CVM) Insights & Subscriber Growth Strategy
- Data Period: January 2016 to March 2016 (based on provided dataset)
 
-Provide your feedback on BizChat
-Sources
-Add visualizations to the READMEInclude a summary of key findingsExplain how to reproduce the analysis
-FilesFiles

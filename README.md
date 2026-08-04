@@ -44,7 +44,7 @@ All timestamps in the source dataset were provided in UTC and should be converte
 
 Methodology
 
-The analysis follows the process below:
+**The analysis follows the process below:**
 
 1. Data Preparation
 Data quality assessment

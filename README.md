@@ -1,3 +1,13 @@
+Aspiring Data Analyst | SQL & Data Visualization
+------------------------------------------------
+
+I’m an aspiring Data Analyst passionate about using data to uncover insights and support better decision-making. I’ve been developing my skills in SQL, data analysis, and visualization, while building practical dashboards with Power BI, Data Studio, and Databricks. I also enjoy creating web applications using AI-powered development tools such as Lovable and continuously exploring new ways to combine data, technology, and problem-solving.
+
+* 🌍  I'm based in South Africa
+* ✉️  You can contact me at [kjeffrey4@gmail.com](mailto:kjeffrey4@gmail.com)
+* 🧠  I'm currently learning SQL, Data Analysis, Power BI, Databricks & Data Visualization
+* 👥  I'm looking to collaborate on ata Analytics, Power BI Dashboards, SQL Projects & AI-Powered Web Applications
+
 **BrightTV Viewership Analytics Case Study**
 **Overview**
 

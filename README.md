@@ -1,3 +1,24 @@
+<img width="2560" height="1280" alt="brighttv-viewership-analysis-banner (1)" src="https://github.com/user-attachments/assets/6d160a58-e521-435d-8877-89a3592f3ecc" />
+<img width="2560" height="1280" alt="brighttv-viewership-analysis-banner (1)" src="https://github.com/user-attachments/assets/0b55f63e-1132-47c6-b3c6-83db0f28b0bc" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Hi My name is Kholisile Tsoili
 Aspiring Data Analyst | SQL & Data Visualization
 I’m an aspiring Data Analyst passionate about using data to uncover insights and support better decision-making. I’ve been developing my skills in SQL, data analysis, and visualization, while building practical dashboards with Power BI, Data Studio, and Databricks. I also enjoy creating web applications using AI-powered development tools such as Lovable and continuously exploring new ways to combine data, technology, and problem-solving.

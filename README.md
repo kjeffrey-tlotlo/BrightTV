@@ -1,5 +1,5 @@
 <img width="2560" height="1280" alt="brighttv-viewership-analysis-banner (1)" src="https://github.com/user-attachments/assets/6d160a58-e521-435d-8877-89a3592f3ecc" />
-<img width="2560" height="1280" alt="brighttv-viewership-analysis-banner (1)" src="https://github.com/user-attachments/assets/0b55f63e-1132-47c6-b3c6-83db0f28b0bc" />
+
 
 
 

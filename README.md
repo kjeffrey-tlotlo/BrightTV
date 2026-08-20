@@ -170,6 +170,17 @@ This project is designed for:
 <img width="1380" height="413" alt="image" src="https://github.com/user-attachments/assets/60e7bacd-f8df-48cc-9e23-89bcb3429d13" />
 <img width="692" height="365" alt="image" src="https://github.com/user-attachments/assets/da413cb1-74f2-4474-9bc5-aebc52a4cdac" />
 
+Consumption Trends by Day
+<img width="1377" height="297" alt="image" src="https://github.com/user-attachments/assets/c4b7e33d-c699-407b-980f-f289c25bbc5a" />
+<img width="1372" height="298" alt="image" src="https://github.com/user-attachments/assets/ac559a2b-0e06-415b-ad9d-480c8d1b9d9b" />
+
+### Content Consumption Analysis
+
+<img width="1377" height="296" alt="image" src="https://github.com/user-attachments/assets/65cd7676-db26-4eed-a51c-68d869b10832" />
+
+
+
+
 
 
 

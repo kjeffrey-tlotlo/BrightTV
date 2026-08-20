@@ -160,9 +160,19 @@ This project is designed for:
 - Recruiters and hiring managers evaluating practical data analytics, business intelligence, and storytelling skills through a real-world business case study.
 - The findings can be leveraged to support data-driven decision-making aimed at increasing viewership, improving customer engagement, and driving sustainable subscription growth.
 
-Screenshots
+### Executive Dashboard
 
-<img width="1147" height="122" alt="image" src="https://github.com/user-attachments/assets/92ec64fc-0919-423f-a81b-d7e4778ed553" />
+<img width="1372" height="117" alt="image" src="https://github.com/user-attachments/assets/a4e9a33b-def1-4911-84d6-4bc901126520" />
+
+### User Demographics Analysis
+
+<img width="1384" height="482" alt="image" src="https://github.com/user-attachments/assets/431de3a1-9bf6-4810-bacd-c05363fccc79" />
+<img width="1380" height="413" alt="image" src="https://github.com/user-attachments/assets/60e7bacd-f8df-48cc-9e23-89bcb3429d13" />
+<img width="692" height="365" alt="image" src="https://github.com/user-attachments/assets/da413cb1-74f2-4474-9bc5-aebc52a4cdac" />
+
+
+
+
 
 
 

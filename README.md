@@ -1,24 +1,4 @@
 <img width="2560" height="1280" alt="brighttv-viewership-analysis-banner (1)" src="https://github.com/user-attachments/assets/6d160a58-e521-435d-8877-89a3592f3ecc" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Hi My name is Kholisile Tsoili
 Aspiring Data Analyst | SQL & Data Visualization
 I’m an aspiring Data Analyst passionate about using data to uncover insights and support better decision-making. I’ve been developing my skills in SQL, data analysis, and visualization, while building practical dashboards with Power BI, Data Studio, and Databricks. I also enjoy creating web applications using AI-powered development tools such as Lovable and continuously exploring new ways to combine data, technology, and problem-solving.
@@ -139,5 +119,50 @@ Improve viewer engagement.
 Enhance customer retention.
 Acquire new subscribers.
 Support sustainable subscription growth.
+
+📺 BrightTV Viewership Analytics & Growth Strategy
+📑 Table of Contents
+1. Executive Summary
+2. Business Problem
+3. Project Objectives
+4. About BrightTV
+5. Dataset Overview
+6. Data Quality Assessment
+7. Data Cleaning & Preparation
+8. Feature Engineering
+9. Exploratory Data Analysis (EDA)
+10. Customer Demographic Analysis
+11. Viewership & Consumption Trends
+12. Peak vs Low Consumption Periods
+17Factors Influencing Consumption
+14. Content Performance Analysis
+15. Subscription Growth Opportunities
+16. Recommendations
+17. Business Impact
+18. Dashboard & Visualizations
+19. Key Insights
+20. Tools & Technologies Used
+
+21. 📌 ****Project Overview**
+22. ****What This Project Does**
+This project analyzes BrightTV's subscriber and viewership data to uncover customer behavior patterns, consumption trends, and factors influencing content engagement. The analysis focuses on identifying opportunities to increase platform usage, improve customer retention, and support subscription growth through data-driven insights. The project includes demographic analysis, content consumption trends, user segmentation, and strategic recommendations for increasing viewer engagement and expanding the subscriber base.
+**Why This Project Was Built**
+BrightTV's CEO set a strategic objective to grow the company's subscription base during the current financial year and tasked the Customer Value Management (CVM) team with identifying growth opportunities. This project was developed to support that objective by analyzing user profiles and viewer transaction data, understanding consumption behavior, identifying factors that influence viewership, and recommending content and customer growth strategies based on analytical findings.
+
+**Who Should Use It**
+
+This project is designed for:
+- Business Analysts seeking to derive actionable insights from customer and transactional data.
+- Customer Value Management (CVM) teams focused on subscriber growth and retention.
+- Marketing teams developing customer acquisition and engagement strategies.
+- Content Strategy teams responsible for content planning and optimization.
+- Data Analysts and BI Professionals interested in customer behavior and media consumption analytics.
+- Recruiters and hiring managers evaluating practical data analytics, business intelligence, and storytelling skills through a real-world business case study.
+- The findings can be leveraged to support data-driven decision-making aimed at increasing viewership, improving customer engagement, and driving sustainable subscription growth.
+
+Screenshots
+
+<img width="1147" height="122" alt="image" src="https://github.com/user-attachments/assets/92ec64fc-0919-423f-a81b-d7e4778ed553" />
+
 
 

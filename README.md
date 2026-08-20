@@ -165,6 +165,7 @@ This project is designed for:
 <img width="1372" height="117" alt="image" src="https://github.com/user-attachments/assets/a4e9a33b-def1-4911-84d6-4bc901126520" />
 
 ### User Demographics Analysis
+cks
 
 <img width="1384" height="482" alt="image" src="https://github.com/user-attachments/assets/431de3a1-9bf6-4810-bacd-c05363fccc79" />
 <img width="1380" height="413" alt="image" src="https://github.com/user-attachments/assets/60e7bacd-f8df-48cc-9e23-89bcb3429d13" />
@@ -177,6 +178,11 @@ Consumption Trends by Day
 ### Content Consumption Analysis
 
 <img width="1377" height="296" alt="image" src="https://github.com/user-attachments/assets/65cd7676-db26-4eed-a51c-68d869b10832" />
+
+Technologies Used
+
+Lovable
+Databricks 
 
 
 

@@ -180,6 +180,9 @@ Technologies Used
 
 Lovable
 Databricks 
+EXCEL
+POWERBI
+DATA STUDIO
 
 
 

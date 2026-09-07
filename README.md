@@ -1,4 +1,4 @@
-<img width="2560" height="1280" alt="brighttv-viewership-analysis-banner (1)" src="https://github.com/user-attachments/assets/6d160a58-e521-435d-8877-89a3592f3ecc" />
+img width="2560" height="1280" alt="brighttv-viewership-analysis-banner (1)" src="https://github.com/user-attachments/assets/6d160a58-e521-435d-8877-89a3592f3ecc" />
 Hi My name is Kholisile Tsoili
 Aspiring Data Analyst | SQL & Data Visualization
 I’m an aspiring Data Analyst passionate about using data to uncover insights and support better decision-making. I’ve been developing my skills in SQL, data analysis, and visualization, while building practical dashboards with Power BI, Data Studio, and Databricks. I also enjoy creating web applications using AI-powered development tools such as Lovable and continuously exploring new ways to combine data, technology, and problem-solving.
@@ -7,18 +7,18 @@ I’m an aspiring Data Analyst passionate about using data to uncover insights a
 ✉️  You can contact me at kjeffrey4@gmail.com
 🧠  I'm learning SQL, Data Analysis, Power BI, Databricks & Data Visualization
 🤝  I'm open to collaborating on ata Analytics, Power BI Dashboards, SQL Projects & AI-Powered Web Applications
-**BrightTV Viewership Analytics Case Study**
-**Overview**
+##BrightTV Viewership Analytics Case Study**
+##Overview**
 
-This case study analyzes subscriber viewership behavior for BrightTV with the objective of identifying opportunities to increase platform consumption and grow the subscriber base.
+##This case study analyzes subscriber viewership behavior for BrightTV with the objective of identifying opportunities to increase platform consumption and grow the subscriber base.
 
 The analysis is based on viewer transaction data and subscriber profile information provided by BrightTV. Insights generated from this study are intended to support the Customer Value Management (CVM) team in developing data-driven strategies to improve engagement, retention, and subscriber acquisition.
 
-Business Objective
+##Business Objective
 
 The CEO of BrightTV aims to increase the company's subscription base during the current financial year.
 
-This case study addresses the following key business questions:
+##This case study addresses the following key business questions:
 
 What are the major user and usage trends across the platform?
 Which factors influence content consumption?
@@ -26,7 +26,7 @@ What content should be promoted during periods of low viewership?
 Which initiatives can help grow the BrightTV subscriber base?
 Dataset Description
 
-The dataset contains subscriber demographic information and viewing session records.
+##The dataset contains subscriber demographic information and viewing session records.
 
 Subscriber Attributes
 Subscriber ID
@@ -49,19 +49,19 @@ Screen Time Bucket
 TV Channel / Content Viewed
 Important Note
 
-All timestamps in the source dataset were provided in UTC and should be converted to South African Standard Time (SAST) before analysis.
+##All timestamps in the source dataset were provided in UTC and should be converted to South African Standard Time (SAST) before analysis.
 
 Methodology
 
-**The analysis follows the process below:**
+##The analysis follows the process below:**
 
-1. Data Preparation
+##1. Data Preparation
 Data quality assessment
 Removal of duplicates where applicable
 Validation of duration metrics
 Conversion of UTC timestamps to SAST
 Standardization of categorical fields
-2. Exploratory Analysis
+##2. Exploratory Analysis
 Subscriber segmentation
 Viewing trends by:
 Time of day
@@ -70,24 +70,21 @@ Region
 Age group
 Gender
 Content category
-3. Consumption Analysis
+##3. Consumption Analysis
 Peak viewing periods
 Low consumption periods
 High value viewer segments
 Content performance evaluation
-4. Recommendation Development
+##4. Recommendation Development
 Content recommendations
 Engagement initiatives
 Customer growth strategies
 Retention opportunities
 Key Deliverables
 
-The presentation addresses:
-
+##The presentation addresses:
 User & Usage Trends
-
-Analysis of:
-
+##Analysis of:
 Subscriber demographics
 Regional adoption
 Viewing frequency
@@ -95,7 +92,7 @@ Viewing duration patterns
 Popular content and channels
 Consumption Drivers
 
-Evaluation of factors impacting engagement, including:
+##Evaluation of factors impacting engagement, including:
 
 Time of day
 Day classification (weekday vs weekend)
@@ -104,7 +101,7 @@ User demographics
 Regional preferences
 Low Consumption Recommendations
 
-Identification of:
+##Identification of:
 
 Underperforming viewing periods
 Suitable content categories for promotion
